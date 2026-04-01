@@ -31,8 +31,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+<img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://github.com/briannapinson/gameDashboard/blob/a98b2da79df696957aa7ac5d1c90857c614f6727/gameDiscovery.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
 
