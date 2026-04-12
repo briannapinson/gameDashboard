@@ -2,7 +2,7 @@
 
 Submitted by: Brianna Pinson
 
-This web app tracks games on a dashboard, allowing you to search and filter through entries by name and genre. Additionally, it displays statistics about each game such as name, rating (out of 5), release date, genre, platforms and metacritic rating. It will also show the average rating of all games, top genre, and Metacritic ratings over 90.
+This web app tracks games on a dashboard, allowing you to search and filter through entries by name and genre. Additionally, it displays statistics about each game such as name, rating (out of 5), release date, genre, platforms and metacritic rating. It will also show the average rating of all games, top genre, and Metacritic ratings over 90. If you click the title of the game, you will see a details page and charts will display the average rating and spread of genres.
 
 Time spent: **2** hours spent in total
 
@@ -26,7 +26,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/briannapinson/gameDashboard/blob/a98b2da79df696957aa7ac5d1c90857c614f6727/gameDiscovery.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='gameDiscovery.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
 
