@@ -130,3 +130,36 @@ tbody tr:last-child td {
 .controls select:focus {
   border-color: #aaa;
 }
+
+.charts {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.chart-card {
+  background-color: #fff;
+  border: 1px solid #e5e5e5;
+  border-radius: 8px;
+  padding: 1.25rem 1.5rem;
+}
+
+.chart-card h2 {
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #888;
+  margin-bottom: 1rem;
+}
+
+tbody a {
+  color: #111;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+tbody a:hover {
+  text-decoration: underline;
+}
