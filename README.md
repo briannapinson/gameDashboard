@@ -1,4 +1,4 @@
-# Web Development Project 5 - Game Dashboard
+# Web Development Project 6 - Game Dashboard
 
 Submitted by: Brianna Pinson
 
